@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Desarrollo de SoftWare y Scripts
 
-You can use the [editor on GitHub](https://github.com/vCesar1mx/vcesar1mx.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Redes Sociales:
+  Discord: vCesar#0001
+  YouTube: vCesar
+  IG: cesarvazquez_e
 
 ### Markdown
 
