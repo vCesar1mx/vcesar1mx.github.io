@@ -3,7 +3,6 @@
 -Redes Sociales:
  - Discord: vCesar#0001
  - YouTube: vCesar
- - IG: cesarvazquez_e
 
 ### Markdown
 
